@@ -1,0 +1,7 @@
+---
+# aqua - Declarative CLI Version Manager
+# https://aquaproj.github.io/
+packages:
+  - name: google.com/cloud-sdk@v592.0.0
+  - name: google.com/cloud-sdk
+    version: v591.0.0 # renovate: depName=google.com/cloud-sdk

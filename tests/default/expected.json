@@ -1,0 +1,20 @@
+[
+  {
+    "manager": "regex",
+    "packageFile": "aqua.yaml",
+    "depName": "google.com/cloud-sdk",
+    "packageName": "google-cloud-sdk-unofficial/google-cloud-sdk",
+    "currentValue": "v591.0.0",
+    "datasource": "github-tags",
+    "replaceString": "    version: v591.0.0 # renovate: depName=google.com/cloud-sdk\n"
+  },
+  {
+    "manager": "regex",
+    "packageFile": "aqua.yaml",
+    "depName": "google.com/cloud-sdk",
+    "packageName": "google-cloud-sdk-unofficial/google-cloud-sdk",
+    "currentValue": "v592.0.0",
+    "datasource": "github-tags",
+    "replaceString": " name: google.com/cloud-sdk@v592.0.0"
+  }
+]
